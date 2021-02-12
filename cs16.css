@@ -1,0 +1,54 @@
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+  background-color: blanchedalmond;
+}
+
+footer {
+background-color: burlywood;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("http://www.cts-tours.com/dosyalar/resimler/2625242322212019181716151413121110987654322.jpg");
+  min-height: 79%;
+}
+
+.menu {
+  display: none;
+}
+
+.amer {
+justify-content: center;
+margin-top: 80px;
+margin-bottom: 20px;
+}
+
+.john {
+  margin-top: 10px;
+  }
+
+.zasik {
+  margin-top: 40px;
+  margin-bottom: 0px;
+
+  
+}
+
+.zassik {
+  margin-top: 0px;
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: -400px;
+  margin-right: -400px;
+}
+
+
+.aisha {
+  margin-top: 0px;
+}
+
+
+
+    
